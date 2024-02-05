@@ -1,10 +1,10 @@
 ### Hi there, I´m Martin Mignone, and this is my github profile 👋
  
-> I'm a curious Electronic Engineer with a strong orientation to programming, embedded & software design and problem solving. Music lover and piano player.
-> <br/>
-> Eager to push my boundaries, continuously learning. 
+* I'm a curious **Electronic & Embedded System Engineer** and **Full Stack & Software Developer** with a strong orientation to programming, design and problem solving.
 
------------
+* Music lover and piano player.
+
+* Eager to push my boundaries, continuously learning.
 
 ## Skills/Technologies
 
